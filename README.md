@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nalendra 👋
 
-<!--
-**nalendra-wp/nalendra-wp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems graduate from Universitas Dian Nuswantoro (2026) and
+**BNSP-certified Associate Data Scientist**. I work with Python, SQL, and NLP,
+and I'm looking for data analyst / junior data scientist opportunities.
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Topic–Sentiment Analysis of Vidio App Reviews](https://github.com/nalendra-wp/vidio-topic-sentiment-analysis)**
+  BERTopic + IndoRoBERTa on 8,854 Google Play reviews.
+  Published as first author in JAIC 2026: [10.30871/jaic.v10i3.12952](https://doi.org/10.30871/jaic.v10i3.12952)
+- *More projects coming soon.*
+
+## Certifications
+
+- Associate Data Scientist, BNSP (2026)
+- IBM Machine Learning courses (Coursera, 2025)
+- SmartPath Data Analyst Bootcamp: SQL and Python (2025)
+
+## Tools
+
+Python · SQL · Excel · BERTopic · HTML/CSS
+
+## Contact
+
+📧 nalendrawp@gmail.com
