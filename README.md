@@ -12,6 +12,8 @@ and I'm looking for data analyst / junior data scientist opportunities.
 - **[Olist E-Commerce Orders Dashboard](https://github.com/nalendra-wp/olist-ecommerce-dashboard)**
   pandas + Looker Studio on 96K delivered orders: sales trends, delivery times, and review impact.
   [Live dashboard](https://datastudio.google.com/reporting/1247648d-406a-4f99-9a1c-afa5a95e52b7)
+- **[Olist SQL Analysis](https://github.com/nalendra-wp/olist-sql-analysis)**
+  8 business questions answered with CTEs, window functions, and views on 96K delivered orders.
 - *More projects coming soon.*
 
 ## Certifications
