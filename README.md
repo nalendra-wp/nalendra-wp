@@ -14,6 +14,8 @@ and I'm looking for data analyst / junior data scientist opportunities.
   [Live dashboard](https://datastudio.google.com/reporting/1247648d-406a-4f99-9a1c-afa5a95e52b7)
 - **[Olist SQL Analysis](https://github.com/nalendra-wp/olist-sql-analysis)**
   8 business questions answered with CTEs, window functions, and views on 96K delivered orders.
+- **[Telco Churn Prediction](https://github.com/nalendra-wp/telco-churn-prediction)**
+  Four models compared on 7K customers, with class imbalance handling and threshold analysis.
 - *More projects coming soon.*
 
 ## Certifications
