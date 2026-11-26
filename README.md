@@ -1,4 +1,4 @@
-# Hi, I'm Nalendra 👋
+# Hi, I'm Nale 👋
 
 Information Systems graduate from Universitas Dian Nuswantoro (2026) and **BNSP-certified Associate Data Scientist**. I work with Python, SQL, Power BI, and NLP, and I'm looking for data analyst / junior data scientist opportunities.
 
@@ -9,16 +9,17 @@ Information Systems graduate from Universitas Dian Nuswantoro (2026) and **BNSP-
 - **[Olist E-Commerce Orders Dashboard](https://datastudio.google.com/reporting/1247648d-406a-4f99-9a1c-afa5a95e52b7)** pandas + Looker Studio on 96K delivered orders: sales trends, delivery times, and review impact.
 - **[Olist SQL Analysis](https://github.com/nalendra-wp)** 8 business questions answered with CTEs, window functions, and views on 96K delivered orders.
 - **[Telco Churn Prediction](https://github.com/nalendra-wp)** Four models compared on 7K customers, with class imbalance handling and threshold analysis.
+- 
 
-## Certifications
+## Professional Certifications
 
 - Associate Data Scientist, BNSP (2026)
-- IBM Machine Learning courses (Coursera, 2025)
-- SmartPath Data Analyst Bootcamp: SQL and Python (2025)
+- Microsoft Power BI Data Analyst Professional Certificate (2026)
+- Google Data Analytics Professional Certificate (2026)
 
 ## Tools
 
-Python · SQL · Power BI · DAX · Looker Studio · Excel · BERTopic · HTML/CSS
+Python · SQL · Power BI · DAX · Tableau · Looker Studio · Excel · BERTopic · HTML/CSS
 
 ## Contact
 
