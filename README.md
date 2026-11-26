@@ -1,9 +1,4 @@
-# Hi, I'm Nalendra 👋
-
-Information Systems graduate from Universitas Dian Nuswantoro (2026) and **BNSP-certified Associate Data Scientist**. I work with Python, SQL, Power BI, and NLP, and I'm looking for data analyst / junior data scientist opportunities.
-
-[![Gmail](https://img.shields.io/badge/nalendrawp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nalendrawp@gmail.com)
-[![Publication](https://img.shields.io/badge/JAIC_2026_Publication-DOI_10.30871%2Fjaic.v10i3.12952-2EA44F?style=for-the-badge&logo=googlescholar&logoColor=white)](https://doi.org/10.30871/jaic.v10i3.12952)
+Information Systems graduate from Universitas Dian Nuswantoro (2026) and **BNSP-certified Associate Data Scientist**. Experienced in Python, SQL, Power BI, and NLP, currently looking for Data Analyst or Junior Data Scientist opportunities.
 
 ## Featured work
 
@@ -20,20 +15,31 @@ Information Systems graduate from Universitas Dian Nuswantoro (2026) and **BNSP-
 - Microsoft Data Analytics / Power BI Certification (2026)
 - Google Data Analytics Certification (2026)
 
-## Tools
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![BERTopic](https://img.shields.io/badge/BERTopic-009688?style=flat-square&logo=python&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
+**💻Languages & Querying**
 
-## Activity
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nalendra-wp&layout=compact&theme=dark)
+**📊BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**🗃️Data Science & NLP**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![BERTopic](https://img.shields.io/badge/BERTopic-009688?style=for-the-badge&logo=python&logoColor=white)
+
+## Reach Me At
+
+- **Instagram:** [@nalendrawp](https://instagram.com/nalendrawp)
+- **Email:** [nalendrawp@gmail.com](mailto:nalendrawp@gmail.com)
