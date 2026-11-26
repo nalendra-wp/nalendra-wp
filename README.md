@@ -2,7 +2,6 @@
 
 Information Systems graduate from Universitas Dian Nuswantoro (2026) and **BNSP-certified Associate Data Scientist**. I work with Python, SQL, Power BI, and NLP, and I'm looking for data analyst / junior data scientist opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nalendrawp)
 [![Gmail](https://img.shields.io/badge/nalendrawp%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nalendrawp@gmail.com)
 [![Publication](https://img.shields.io/badge/JAIC_2026_Publication-10.30871-2EA44F?style=for-the-badge&logo=googlescholar&logoColor=white)](https://doi.org/10.30871/jaic.v10i3.12952)
 
