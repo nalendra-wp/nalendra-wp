@@ -9,6 +9,7 @@ Information Systems graduate from Universitas Dian Nuswantoro (2026) and **BNSP-
 - **[Olist E-Commerce Orders Dashboard](https://datastudio.google.com/reporting/1247648d-406a-4f99-9a1c-afa5a95e52b7)** pandas + Looker Studio on 96K delivered orders: sales trends, delivery times, and review impact.
 - **[Olist SQL Analysis](https://github.com/nalendra-wp)** 8 business questions answered with CTEs, window functions, and views on 96K delivered orders.
 - **[Telco Churn Prediction](https://github.com/nalendra-wp)** Four models compared on 7K customers, with class imbalance handling and threshold analysis.
+- **[BMW Sales & Performance Analysis](https://github.com/nalendra-wp)** [Tools] on [dataset/periode]: [temuan utama atau fokus dashboard].
 
 ## Professional Certifications
 
